@@ -3,7 +3,7 @@
 
 ## Nicole Hall
 
-* GitHub URL:
+* GitHub URL: https://github.com/NicoleHall/Chisel
 
 ### Notes
 
