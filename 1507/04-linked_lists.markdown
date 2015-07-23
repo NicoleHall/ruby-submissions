@@ -147,7 +147,7 @@
 
 ### Nicole Hall
 
-* GitHub URL:
+* GitHub URL: https://github.com/NicoleHall/Linked_List
 
 #### Notes
 
@@ -161,7 +161,7 @@
 
 ### Mary Beth Burch
 
-* GitHub URL: https://github.com/mbburch/linked-lists
+* GitHub URL:
 
 #### Notes
 
